@@ -1,3 +1,6 @@
+# About
+This project is the submitted as my pre-final year mini project. This is a replica of [this project](https://github.com/jobic10/e-voting-with-django). I tried to recreate the same in my mini project.
+
 ## Features:
 
 - [x] Vote preview
